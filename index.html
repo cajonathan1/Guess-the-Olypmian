@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Greek Mythology Image Guesser</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <main>
+    <header>
+      <h1>Guess the Olympian</h1>
+    </header>
+    <main>
+    <div class="image-container">
+      <img src="" alt="Blurred image of an Olympian" id="blurred-image" />
+    </div>
+    <div class="message" id="message" aria-live="polite">
+      Guess which Olympian it is!
+    </div>
+    <input type="text" id="guess-input" placeholder="Enter your guess" />
+    <button
+      onclick="checkGuess()"
+      id="submit-button"
+      aria-label="Submit your guess"
+    >
+      Submit
+    </button>
+    <button
+      onclick="nextRound()"
+      id="next-round-button"
+      style="display: none"
+      aria-label="Next round"
+    >
+      Next Round
+    </button>
+    <button
+      onclick="restartGame()"
+      id="play-again-button"
+      style="display: none"
+      aria-label="Play again"
+    >
+      Play Again
+    </button>
+  </main>
+    <script src="script.js"></script>
+  </body>
+</html>
