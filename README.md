@@ -1,8 +1,8 @@
-Greek Mythology Image Guesser
+<h1>Greek Mythology Image Guesser</h1>
 
 A fun and interactive game where players guess the identity of an Olympian from a blurred image. The image progressively becomes clearer with correct guesses!
 
-🎯 Features
+<h2>🎯 Features</h2>
 
 Interactive Gameplay: Players input their guesses and receive immediate feedback.
 
@@ -12,7 +12,7 @@ Multiple Rounds: Play multiple rounds with different Olympians.
 
 Responsive Design: Works on various screen sizes.
 
-🛠 Technologies Used
+<h2>🛠 Technologies Used</h2>
 
 HTML
 
@@ -20,15 +20,15 @@ CSS
 
 JavaScript
 
-🚀 Getting Started
+<h2>🚀 Getting Started</h2>
 
 Follow these steps to run the project locally:
 
-Prerequisites
+<h3>Prerequisites</h3>
 
 A web browser (Chrome, Firefox, Edge, etc.)
 
-Installation
+<h3>Installation</h3>
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ cd Guess-the-Olypmian
 
 Open the `` file in a browser.
 
-📜 How to Play
+<h2>📜 How to Play</h2>
 
 A blurred image of an Olympian appears.
 
@@ -54,18 +54,18 @@ If incorrect, try again!
 
 Play multiple rounds and improve your Greek mythology knowledge!
 
-🎨 Screenshots
+<h2>🎨 Screenshots</h2>
 
 ![image](https://github.com/user-attachments/assets/3fb5199b-97ea-46d2-80fc-d92d2dffd946)
 
 ![image](https://github.com/user-attachments/assets/542dff1b-5cc0-440c-b6f5-879530a475e2)
 
 
-📄 License
+<h2>📄 License</h2>
 
 This project is licensed under the MIT License.
 
-📬 Contact
+<h2>📬 Contact</h2>
 
 For any inquiries or feedback, please reach out at cajonathan1@gmail.com.
 
